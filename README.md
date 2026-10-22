@@ -11,5 +11,11 @@ AI engineer building production LLM systems — agents, RAG and voice AI. B.Tech
 ## Stack
 Python · TypeScript · React · LLMs · RAG · Agentic AI · Voice agents (LiveKit, SIP, ASR) · PostgreSQL · MongoDB
 
+## Selected work
+- [metis-mockup](https://github.com/ShlokNambiar/metis-mockup) — clickable prototype of an AI-agent console for regulated back-office work, with an audit ledger
+- [SarthiR-BOT](https://github.com/ShlokNambiar/SarthiR-BOT) — RAG assistant over Maharashtra's UDCPR building regulations, with cited answers and chat memory
+- [WRK](https://github.com/ShlokNambiar/WRK) — offline-first Android daily-ops app (React + Capacitor + Supabase)
+- [Metis](https://github.com/ShlokNambiar/Metis) — source for metisai.in
+
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/shlok-nambiar) · [metisai.in](https://metisai.in) · shlok.nambiar@gmail.com
